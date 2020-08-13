@@ -24,7 +24,7 @@
             class="text-secondary"
             target="_blank"
             :href="
-              'https://github.com/' +
+              'https://scannerradio.github.io/gblog' +
                 $store.state.config.owner +
                 '/' +
                 $store.state.config.repo +
